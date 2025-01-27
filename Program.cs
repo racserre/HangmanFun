@@ -84,3 +84,4 @@ do
 } while (!gameOver);
 
 Console.WriteLine("Thanks for playing! Please come again!");
+Console.WriteLine();
